@@ -11,6 +11,7 @@
 	  "node" : ">=0.12"
   },
   "dependencies": {
+    "synaptic": "latest",
     "brain": "*",
     "graph-paths": "latest",
     "languagemodel": "latest",
